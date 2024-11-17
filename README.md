@@ -1,4 +1,4 @@
-# Alfido-Tech-Internship
+# Sales Store Report
 ![](https://github.com/LanreRidwan92/Alfido-Tech-Internship/blob/main/AlfidooStore.jpeg)
 
 ## Introduction
